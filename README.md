@@ -1,2 +1,3 @@
 # Adivinhacao C
- Jogo de adivinhação 
+
+ Projeto de um jogo de adivinhação em C
